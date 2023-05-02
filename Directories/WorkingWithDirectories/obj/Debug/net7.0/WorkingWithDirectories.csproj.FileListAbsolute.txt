@@ -1,0 +1,15 @@
+C:\Users\Matt\Desktop\NET\Directories\WorkingWithDirectories\bin\Debug\net7.0\WorkingWithDirectories.exe
+C:\Users\Matt\Desktop\NET\Directories\WorkingWithDirectories\bin\Debug\net7.0\WorkingWithDirectories.deps.json
+C:\Users\Matt\Desktop\NET\Directories\WorkingWithDirectories\bin\Debug\net7.0\WorkingWithDirectories.runtimeconfig.json
+C:\Users\Matt\Desktop\NET\Directories\WorkingWithDirectories\bin\Debug\net7.0\WorkingWithDirectories.dll
+C:\Users\Matt\Desktop\NET\Directories\WorkingWithDirectories\bin\Debug\net7.0\WorkingWithDirectories.pdb
+C:\Users\Matt\Desktop\NET\Directories\WorkingWithDirectories\obj\Debug\net7.0\WorkingWithDirectories.csproj.AssemblyReference.cache
+C:\Users\Matt\Desktop\NET\Directories\WorkingWithDirectories\obj\Debug\net7.0\WorkingWithDirectories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\Desktop\NET\Directories\WorkingWithDirectories\obj\Debug\net7.0\WorkingWithDirectories.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\NET\Directories\WorkingWithDirectories\obj\Debug\net7.0\WorkingWithDirectories.AssemblyInfo.cs
+C:\Users\Matt\Desktop\NET\Directories\WorkingWithDirectories\obj\Debug\net7.0\WorkingWithDirectories.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\NET\Directories\WorkingWithDirectories\obj\Debug\net7.0\WorkingWithDirectories.dll
+C:\Users\Matt\Desktop\NET\Directories\WorkingWithDirectories\obj\Debug\net7.0\refint\WorkingWithDirectories.dll
+C:\Users\Matt\Desktop\NET\Directories\WorkingWithDirectories\obj\Debug\net7.0\WorkingWithDirectories.pdb
+C:\Users\Matt\Desktop\NET\Directories\WorkingWithDirectories\obj\Debug\net7.0\WorkingWithDirectories.genruntimeconfig.cache
+C:\Users\Matt\Desktop\NET\Directories\WorkingWithDirectories\obj\Debug\net7.0\ref\WorkingWithDirectories.dll

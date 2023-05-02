@@ -1,0 +1,15 @@
+C:\Users\Matt\Desktop\NET\workingWithFiles\bin\Debug\net7.0\workingWithFiles.exe
+C:\Users\Matt\Desktop\NET\workingWithFiles\bin\Debug\net7.0\workingWithFiles.deps.json
+C:\Users\Matt\Desktop\NET\workingWithFiles\bin\Debug\net7.0\workingWithFiles.runtimeconfig.json
+C:\Users\Matt\Desktop\NET\workingWithFiles\bin\Debug\net7.0\workingWithFiles.dll
+C:\Users\Matt\Desktop\NET\workingWithFiles\bin\Debug\net7.0\workingWithFiles.pdb
+C:\Users\Matt\Desktop\NET\workingWithFiles\obj\Debug\net7.0\workingWithFiles.csproj.AssemblyReference.cache
+C:\Users\Matt\Desktop\NET\workingWithFiles\obj\Debug\net7.0\workingWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\Desktop\NET\workingWithFiles\obj\Debug\net7.0\workingWithFiles.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\NET\workingWithFiles\obj\Debug\net7.0\workingWithFiles.AssemblyInfo.cs
+C:\Users\Matt\Desktop\NET\workingWithFiles\obj\Debug\net7.0\workingWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\NET\workingWithFiles\obj\Debug\net7.0\workingWithFiles.dll
+C:\Users\Matt\Desktop\NET\workingWithFiles\obj\Debug\net7.0\refint\workingWithFiles.dll
+C:\Users\Matt\Desktop\NET\workingWithFiles\obj\Debug\net7.0\workingWithFiles.pdb
+C:\Users\Matt\Desktop\NET\workingWithFiles\obj\Debug\net7.0\workingWithFiles.genruntimeconfig.cache
+C:\Users\Matt\Desktop\NET\workingWithFiles\obj\Debug\net7.0\ref\workingWithFiles.dll

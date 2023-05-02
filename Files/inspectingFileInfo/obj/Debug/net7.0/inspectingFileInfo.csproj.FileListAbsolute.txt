@@ -1,0 +1,15 @@
+C:\Users\Matt\Desktop\NET\Files\inspectingFileInfo\bin\Debug\net7.0\inspectingFileInfo.exe
+C:\Users\Matt\Desktop\NET\Files\inspectingFileInfo\bin\Debug\net7.0\inspectingFileInfo.deps.json
+C:\Users\Matt\Desktop\NET\Files\inspectingFileInfo\bin\Debug\net7.0\inspectingFileInfo.runtimeconfig.json
+C:\Users\Matt\Desktop\NET\Files\inspectingFileInfo\bin\Debug\net7.0\inspectingFileInfo.dll
+C:\Users\Matt\Desktop\NET\Files\inspectingFileInfo\bin\Debug\net7.0\inspectingFileInfo.pdb
+C:\Users\Matt\Desktop\NET\Files\inspectingFileInfo\obj\Debug\net7.0\inspectingFileInfo.csproj.AssemblyReference.cache
+C:\Users\Matt\Desktop\NET\Files\inspectingFileInfo\obj\Debug\net7.0\inspectingFileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\Desktop\NET\Files\inspectingFileInfo\obj\Debug\net7.0\inspectingFileInfo.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\NET\Files\inspectingFileInfo\obj\Debug\net7.0\inspectingFileInfo.AssemblyInfo.cs
+C:\Users\Matt\Desktop\NET\Files\inspectingFileInfo\obj\Debug\net7.0\inspectingFileInfo.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\NET\Files\inspectingFileInfo\obj\Debug\net7.0\inspectingFileInfo.dll
+C:\Users\Matt\Desktop\NET\Files\inspectingFileInfo\obj\Debug\net7.0\refint\inspectingFileInfo.dll
+C:\Users\Matt\Desktop\NET\Files\inspectingFileInfo\obj\Debug\net7.0\inspectingFileInfo.pdb
+C:\Users\Matt\Desktop\NET\Files\inspectingFileInfo\obj\Debug\net7.0\inspectingFileInfo.genruntimeconfig.cache
+C:\Users\Matt\Desktop\NET\Files\inspectingFileInfo\obj\Debug\net7.0\ref\inspectingFileInfo.dll
