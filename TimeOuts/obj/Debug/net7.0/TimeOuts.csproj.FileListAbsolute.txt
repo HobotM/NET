@@ -1,0 +1,15 @@
+C:\Users\Matt\Desktop\NET\TimeOuts\obj\Debug\net7.0\TimeOuts.csproj.AssemblyReference.cache
+C:\Users\Matt\Desktop\NET\TimeOuts\obj\Debug\net7.0\TimeOuts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\Desktop\NET\TimeOuts\obj\Debug\net7.0\TimeOuts.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\NET\TimeOuts\obj\Debug\net7.0\TimeOuts.AssemblyInfo.cs
+C:\Users\Matt\Desktop\NET\TimeOuts\obj\Debug\net7.0\TimeOuts.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\NET\TimeOuts\bin\Debug\net7.0\TimeOuts.exe
+C:\Users\Matt\Desktop\NET\TimeOuts\bin\Debug\net7.0\TimeOuts.deps.json
+C:\Users\Matt\Desktop\NET\TimeOuts\bin\Debug\net7.0\TimeOuts.runtimeconfig.json
+C:\Users\Matt\Desktop\NET\TimeOuts\bin\Debug\net7.0\TimeOuts.dll
+C:\Users\Matt\Desktop\NET\TimeOuts\bin\Debug\net7.0\TimeOuts.pdb
+C:\Users\Matt\Desktop\NET\TimeOuts\obj\Debug\net7.0\TimeOuts.dll
+C:\Users\Matt\Desktop\NET\TimeOuts\obj\Debug\net7.0\refint\TimeOuts.dll
+C:\Users\Matt\Desktop\NET\TimeOuts\obj\Debug\net7.0\TimeOuts.pdb
+C:\Users\Matt\Desktop\NET\TimeOuts\obj\Debug\net7.0\TimeOuts.genruntimeconfig.cache
+C:\Users\Matt\Desktop\NET\TimeOuts\obj\Debug\net7.0\ref\TimeOuts.dll

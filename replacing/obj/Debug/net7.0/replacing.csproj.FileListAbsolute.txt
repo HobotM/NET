@@ -1,0 +1,15 @@
+C:\Users\Matt\Desktop\NET\replacing\obj\Debug\net7.0\replacing.csproj.AssemblyReference.cache
+C:\Users\Matt\Desktop\NET\replacing\obj\Debug\net7.0\replacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\Desktop\NET\replacing\obj\Debug\net7.0\replacing.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\NET\replacing\obj\Debug\net7.0\replacing.AssemblyInfo.cs
+C:\Users\Matt\Desktop\NET\replacing\obj\Debug\net7.0\replacing.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\NET\replacing\bin\Debug\net7.0\replacing.exe
+C:\Users\Matt\Desktop\NET\replacing\bin\Debug\net7.0\replacing.deps.json
+C:\Users\Matt\Desktop\NET\replacing\bin\Debug\net7.0\replacing.runtimeconfig.json
+C:\Users\Matt\Desktop\NET\replacing\bin\Debug\net7.0\replacing.dll
+C:\Users\Matt\Desktop\NET\replacing\bin\Debug\net7.0\replacing.pdb
+C:\Users\Matt\Desktop\NET\replacing\obj\Debug\net7.0\replacing.dll
+C:\Users\Matt\Desktop\NET\replacing\obj\Debug\net7.0\refint\replacing.dll
+C:\Users\Matt\Desktop\NET\replacing\obj\Debug\net7.0\replacing.pdb
+C:\Users\Matt\Desktop\NET\replacing\obj\Debug\net7.0\replacing.genruntimeconfig.cache
+C:\Users\Matt\Desktop\NET\replacing\obj\Debug\net7.0\ref\replacing.dll

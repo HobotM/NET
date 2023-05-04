@@ -7,21 +7,21 @@ string test2 = "qweqweqweqweqweqweqweqweqWe";
 
 Regex CapWords = new Regex(@"[A-Z]\w+");
 
-//System.Console.WriteLine(CapWords.IsMatch(test1));
-//System.Console.WriteLine(CapWords.IsMatch(test2));
+System.Console.WriteLine(CapWords.IsMatch(test1));
+System.Console.WriteLine(CapWords.IsMatch(test2));
 
 // Regex to argument used to perfoem case sens searches
 
-// Regex NoCase = new Regex (@"qeewee", RegexOptions.IgnoreCase);
-// System.Console.WriteLine(NoCase.IsMatch(test1));
+Regex NoCase = new Regex (@"qeewee", RegexOptions.IgnoreCase);
+System.Console.WriteLine(NoCase.IsMatch(test1));
 
 // Match to get info about specific reges matches for given pattern
 
-// Match m = CapWords.Match(test1);
-// while(m.Success) {
-//     System.Console.WriteLine($"'{m.Value}' found at position {m.Index}");
-//     m = m.NextMatch();
-// }
+Match m = CapWords.Match(test1);
+while(m.Success) {
+    System.Console.WriteLine($"'{m.Value}' found at position {m.Index}");
+    m = m.NextMatch();
+}
 
 
 // Matches returns a collection of match objects
