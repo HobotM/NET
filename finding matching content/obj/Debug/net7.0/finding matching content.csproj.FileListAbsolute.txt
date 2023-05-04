@@ -1,0 +1,15 @@
+C:\Users\Matt\Desktop\NET\finding matching content\obj\Debug\net7.0\finding matching content.csproj.AssemblyReference.cache
+C:\Users\Matt\Desktop\NET\finding matching content\obj\Debug\net7.0\finding matching content.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\Desktop\NET\finding matching content\obj\Debug\net7.0\finding matching content.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\NET\finding matching content\obj\Debug\net7.0\finding matching content.AssemblyInfo.cs
+C:\Users\Matt\Desktop\NET\finding matching content\obj\Debug\net7.0\finding matching content.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\NET\finding matching content\bin\Debug\net7.0\finding matching content.exe
+C:\Users\Matt\Desktop\NET\finding matching content\bin\Debug\net7.0\finding matching content.deps.json
+C:\Users\Matt\Desktop\NET\finding matching content\bin\Debug\net7.0\finding matching content.runtimeconfig.json
+C:\Users\Matt\Desktop\NET\finding matching content\bin\Debug\net7.0\finding matching content.dll
+C:\Users\Matt\Desktop\NET\finding matching content\bin\Debug\net7.0\finding matching content.pdb
+C:\Users\Matt\Desktop\NET\finding matching content\obj\Debug\net7.0\finding matching content.dll
+C:\Users\Matt\Desktop\NET\finding matching content\obj\Debug\net7.0\refint\finding matching content.dll
+C:\Users\Matt\Desktop\NET\finding matching content\obj\Debug\net7.0\finding matching content.pdb
+C:\Users\Matt\Desktop\NET\finding matching content\obj\Debug\net7.0\finding matching content.genruntimeconfig.cache
+C:\Users\Matt\Desktop\NET\finding matching content\obj\Debug\net7.0\ref\finding matching content.dll
